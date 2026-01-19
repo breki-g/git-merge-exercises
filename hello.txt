@@ -1,4 +1,4 @@
-Hello, Git!
+﻿Hello, Git!
 A new line
 This is a change in the main branch.
 This is a change in the main branch.
